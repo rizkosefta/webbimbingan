@@ -13,7 +13,7 @@ if ($_SESSION["login"] !== 'admin') {
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Universitas AKI .: Dasboard Administrator :.</title>
+  <title>Universitas CIKUYA .: Dasboard Administrator :.</title>
   <link rel="icon" href="foto/logounaki.png">
   <!-- Theme style -->
   <link rel="shortcut icon" href="foto/logounaki.png">
@@ -197,7 +197,7 @@ if ($_SESSION["login"] !== 'admin') {
       <div class="pull-right hidden-xs">
         <b>Version</b> 1.0.0
       </div>
-      <strong>Copyright &copy; 2020 <a href="http://www.unaki.ac.id/">Universitas AKI</a>.</strong> All rights
+      <strong>Copyright &copy; 2020 <a href="http://www.unaki.ac.id/">Universitas CIKUYA</a>.</strong> All rights
       reserved.
     </footer>
   </div>

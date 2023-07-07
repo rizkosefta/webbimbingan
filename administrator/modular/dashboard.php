@@ -17,9 +17,9 @@
         <div class="box box-info">
             <div class="box-header">
                 <h1><center><b>SISTEM PENGELOLAAN KERJA PRAKTEK DAN SKRIPSI</b></center></h1>
-				<center><img src="foto/logounaki.png" width="350" height="150" /></center>
-				<center><h2><b>Universitas AKI Copyright &copy;  <?php echo date ('Y') ?></b></h2></center>
-				<center><h4><b>Made with Team Student UNAKI in Semarang, Central Java Indonesia</b></h4></center>
+				<center><img src="foto/unaki.png" width="350" height="150" /></center>
+				<center><h2><b>Universitas CIKUYA Copyright &copy;  <?php echo date ('Y') ?></b></h2></center>
+				<center><h4><b>Made with Team Student CIKUYA in Subang, West Java Indonesia</b></h4></center>
             </div>
         </div>
 </section>    

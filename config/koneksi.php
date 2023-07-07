@@ -3,7 +3,7 @@
     $server = "localhost";
     $user = "root"; 
     $password = ""; 
-    $database = "dbunaki";
+    $database = "skripsi_bimbingan";
     
     // $server = "localhost";
     // $user = "id17415990_satudua"; 
