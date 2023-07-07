@@ -14,8 +14,8 @@ include 'config/fungsi_indotgl.php';
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Sistem Online Kerja Praktek dan Skipsi</title>
 
-	<link rel="icon" href="dist/img/logounaki.png">
-	<link rel="shortcut icon" href="dist/img/logounaki.png">
+	<link rel="icon" href="dist/img/logoUnnur.png">
+	<link rel="shortcut icon" href="dist/img/logoUnnur.png">
 	<!-- Normalize -->
 	<link rel="stylesheet" type="text/css" href="dist/css/normalize.css">
 	<!-- Bootstrap -->
@@ -47,7 +47,7 @@ include 'config/fungsi_indotgl.php';
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><img src="dist/img/logounaki.png" data-active-url="dist/img/logounaki.png" alt=""></a>
+				<a class="navbar-brand" href="#"><img src="dist/img/logoUnnur.png" width="125" data-active-url="dist/img/logoUnnur.png" alt=""></a>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
