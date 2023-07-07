@@ -55,8 +55,8 @@ include 'config/fungsi_indotgl.php';
 					<li><a href="#intro">Beranda</a></li>
 					<li><a href="#services">Pengumuman</a></li>
 					<li><a href="#services">Pengumuman2</a></li>
-					<li><a href="#team">Team FTI</a></li>
-					<li><a href="#pricing">Tentang FTI</a></li>
+					<li><a href="#team">Staff FIKI</a></li>
+					<li><a href="#pricing">Tentang FIKI</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Login</a></li>
 				</ul>
 			</div>
@@ -70,8 +70,8 @@ include 'config/fungsi_indotgl.php';
 				<div class="header-text">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h3 class="light white">FAKULTAS TEKNIK DAN INFORMATIKA</h3>
-							<h1 class="white typed">Selamat Datang di Sistem Online Kerja Praktek dan Skripsi.</h1>
+							<h1 class="white typed">Selamat Datang Para Pejuang Skripsi</h1>
+							<h3 class="light white">FAKULTAS ILMU KOMPUTER DAN INFORMATIKA</h3>
 							<span class="typed-cursor">|</span>
 						</div>
 					</div>
@@ -169,22 +169,21 @@ include 'config/fungsi_indotgl.php';
 	<section id="team" class="section gray-bg">
 		<div class="container">
 			<div class="row title text-center">
-				<h2 class="margin-top">Team Fakultas Teknik dan Informatika</h2>
-				<h4 class="light muted">We're a dream team!</h4>
+				<h2 class="margin-top">Staff Fakultas Ilmu Komputer dan Informatika</h2>
 			</div>
 			<div class="row">
 				<div class="col-md-4">
 					<div class="team text-center">
 						<div class="cover" style="background:url('dist/img/team/team-cover1.jpg'); background-size:cover;">
 							<div class="overlay text-center">
-								<h3 class="white">Fakultas Teknik dan Informatika</h3>
+								<h3 class="white">Fakultas Ilmu Komputer dan Informatika</h3>
 							</div>
 						</div>
-						<img src="dist/img/avatar5.png" alt="Team Image" class="avatar">
+						<img src="dist/img/team/dekan.jpg" alt="Team Image" class="avatar">
 						<div class="title">
 							<h4>Dekan Fakultas <br>
-								Teknik dan Informatika</h4>
-							<h5 class="muted regular">Dr. Harries Arizonia Ismail, S.E., M.M., M.Kom. </h5>
+								Ilmu Komputer dan Informatika</h4>
+							<h5 class="muted regular">Dr. Samsul Budiarto, S.T., M.T. </h5>
 						</div>
 					</div>
 				</div>
@@ -192,15 +191,15 @@ include 'config/fungsi_indotgl.php';
 					<div class="team text-center">
 						<div class="cover" style="background:url('dist/img/team/team-cover2.jpg'); background-size:cover;">
 							<div class="overlay text-center">
-								<h3 class="white">Fakultas Teknik dan Informatika</h3>
+								<h3 class="white">Fakultas Ilmu Komputer dan Informatika</h3>
 							</div>
 						</div>
-						<img src="dist/img/avatar.png" alt="Team Image" class="avatar">
+						<img src="dist/img/team/wadek1.jpg" alt="Team Image" class="avatar">
 						<div class="title">
-							<h4>Ketua Program Studi<br>
-								Teknik Informatika
+							<h4>Wakil Dekan I<br>
+							Ilmu Komputer dan Informatika
 							</h4>
-							<h5 class="muted regular">Satrio Agung Prakoso, S.T.</h5>
+							<h5 class="muted regular">Suharjato Utomo, S.Si., M.T.</h5>
 						</div>
 					</div>
 				</div>
@@ -208,15 +207,14 @@ include 'config/fungsi_indotgl.php';
 					<div class="team text-center">
 						<div class="cover" style="background:url('dist/img/team/team-cover3.jpg'); background-size:cover;">
 							<div class="overlay text-center">
-								<h3 class="white">Fakultas Teknik dan Informatika</h3>
+								<h3 class="white">Fakultas Ilmu Komputer dan Informatika</h3>
 							</div>
 						</div>
-						<img src="dist/img/avatar2.png" alt="Team Image" class="avatar">
+						<img src="dist/img/team/wadek2.png" alt="Team Image" class="avatar">
 						<div class="title">
-							<h4>Ketua Program Studi<br>
-								Sistem Informasi<br>
-								Teknik Multimedia dan Jaringan</h4>
-							<h5 class="muted regular">Sinta Tridian Galih, S.T., M.Kom.</h5>
+							<h4>Wakil Dekan II<br>
+								Ilmu Komputer dan Informatika</h4>
+							<h5 class="muted regular">Sri Sutjiningtyas, S.Pd., M.Kom.</h5>
 						</div>
 					</div>
 				</div>
@@ -226,14 +224,18 @@ include 'config/fungsi_indotgl.php';
 	<section id="pricing" class="section">
 		<div class="container">
 			<div class="row title text-center">
-				<h2 class="margin-top white">Tentang Fakultas Teknik dan Informatika</h2>
-				<h4 class="light white">Mengenal lebih dekat dengan Fakultas Teknik dan Informatika</h4>
-				<h4 class="margin-top white">Visi Fakultas Teknik dan Informatika</h4>
-				<h4 class="light white">Menjadi fakultas yang unggul melalui penguasaan teknologi informasi dan bisnis sehingga memiliki daya saing dalam lingkup nasional dengan didasarkan atas keimanan pada Tuhan Yang Maha Esa.</h4>
-				<h4 class="margin-top white">Misi Fakultas Teknik dan Informatika</h4>
-				<h4 class="light white">1. Menciptakan dan meningkatkan mutu pendidikan dan pengajaran fakultas untuk berkinerja secara efisien dan efektif.<br>
-					2. Membangun kualitas sumber daya internal sebagai pelaku utama dalam implementasi ilmu pengetahuan berbasis teknologi dan bisnis. <br>
-					3. Menerapkan dan mendayagunakan ilmu pengetahuan berbasis teknologi dan bisnis sesuai kebutuhan masyarakat.
+				<h2 class="margin-top white">Tentang Fakultas Ilmu  komputer dan Informatika</h2>
+				<h4 class="light white">Mengenal lebih dekat dengan Fakultas Ilmu Komputer dan Informatika</h4>
+				<h4 class="margin-top white">Visi Fakultas Ilmu Komputer dan Informatika</h4>
+				<h4 class="light white">“Pada Tahun 2020 Menjadi Program Studi yang mampu bersaing dalam tataran global serta menghasilkan Lulusan yang Berkompeten dan profesional di bidang Teknologi Informasi khususnya Rekayasa Perangkat Lunak dan Sistem Informasi serta menjadi pusat keunggulan di bidang pendidikan, penelitian dan pengembangan ilmu pengetahuan dan teknologi dibidang Teknologi Informasi”.
+					Berkompeten, mengandung arti bahwa lulusan Program Studi di Teknik Informatika Universitas Nurtanio Bandung memiliki kemampuan atau kecakapan yang mencakup pengetahuan, keterampilan dan sikap sesuai dengan standar yang ditentukan oleh Universitas.
+					Profesional, mengandung arti bahwa lulusan Program Studi Teknik Informatika memiliki kemampuan dalam mencapai standar yang sudah ditentukan oleh Program Studi.</h4>
+				<h4 class="margin-top white">Misi Fakultas Ilmu Komputer dan Informatika</h4>
+				<h4 class="light white">1. Mengembangkan sistem dan proses belajar mengajar dibidang Teknologi Informasi khususnya Rekayasa Perangkat Lunak dan Sistem Informasi serta mengembangkan pendidikan untuk menghasilkan lulusan profesional berkompeten, mandiri dan berkualitas.<br>
+					2. Menyelenggarakan penelitian dibidang Teknologi Informasi khususnya Rekayasa Perangkat Lunak dan Sistem Informasi. <br>
+					3. Memberikan sumbangsih kepada masyarakat dalam pengembangan teori, Sistem, Aplikasi, dan pemecahan berbagai permasalahan di bidang Teknologi Informasi khususnya Rekayasa Perangkat Lunak dan Sistem Informasi. <br>
+					4. Meningkatkan jalinan kerja sama yang berkelanjutan dengan lembaga pemerintah, instansi dan atau industri swasta, dan masyarakat dalam rangka meningkatkan terselenggaranya kualitas pendidikan, penelitian dan pengabdian masyarakat. <br>
+					5.Memberikan kesempatan pada civitas akademika untuk meningkatkan kompetensi melalui pendidikan dan pelatihan secara berkelanjutan.
 				</h4>
 			</div>
 
@@ -246,22 +248,12 @@ include 'config/fungsi_indotgl.php';
 					<div class="owl-twitter owl-carousel">
 						<div class="item text-center">
 							<i class="icon fa fa-yelp"></i>
-							<h4 class="white light">Program Studi Fakultas Teknik dan Informatika</h4>
-							<h4 class="light-white light">ada 3 program studi</h4>
+							<h4 class="white light">Program Studi Fakultas Ilmu Komputer dan Informatika</h4>
 						</div>
 						<div class="item text-center">
 							<i class="icon fa fa-yelp"></i>
 							<h4 class="white light">Program Studi Teknik Informatika</h4>
-							<h4 class="light-white light">Pada Program Studi Teknik Informatika memiliki dua konsentrasi dibidang <br> #web development #mobile development</h4>
-						</div>
-						<div class="item text-center">
-							<i class="icon fa fa-yelp"></i>
-							<h4 class="white light">Program Studi Sistem Informasi</h4>
-							<h4 class="light-white light">Pada Program Studi Teknik Informatika memiliki dua konsentrasi dibidang <br> #Sistem Enterprise #Audit Sistem Informasi </h4>
-						</div>
-						<div class="item text-center">
-							<i class="icon fa fa-yelp"></i>
-							<h4 class="white light">Program Studi Teknik Multimedia dan Jaringan</h4>
+							<h4 class="light-white light">Pada Program Studi Teknik Informatika mendalami tentang ilmu komputer dan informasi<br> </h4>
 						</div>
 					</div>
 				</div>
@@ -301,19 +293,6 @@ include 'config/fungsi_indotgl.php';
 				</div>
 
 			</div>
-			<div class="row bottom-footer text-center-mobile">
-				<div class="col-sm-8">
-					<p>&copy; 2023 All Rights Reserved. Powered by <a href="https://www.candilkuya.com/">Universitas CIKUYA</a></p>
-				</div>
-				<div class="col-sm-4 text-right text-center-mobile">
-					<ul class="social-footer">
-						<li><a href="http://www.facebook.com/pages/Codrops/159107397912"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="http://www.twitter.com/codrops"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="https://plus.google.com/101095823814290637419"><i class="fa fa-google-plus"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
 	</footer>
 	<!-- Holder for mobile navigation -->
 	<div class="mobile-nav">
